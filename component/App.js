@@ -6,15 +6,13 @@ import { View, Text } from 'react-native';
 class App extends React.Component {
     render() {
         return (
-            //componet about react native
+            //component about react native
             <View>
-                <Text>Hello Shio</Text>
+                <Text>Hello World</Text>
             </View>
         );
     }
 }
 
-// export
+// export 
 export default App;
-
-
